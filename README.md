@@ -1,4 +1,4 @@
-# ReduxMyStarter1
+# weatherReactApp
 
 ### Getting Started
 
