@@ -1,11 +1,11 @@
 {
-  "name": "redux-my-starter1",
+  "name": "weatherReactApp",
   "version": "1.0.0",
   "description": "Simple my starter package for Redux with React and Babel support",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ManojDaswani/ReduxMyStarter1.git"
+    "url": "git+ssh://git@github.com/ManojDaswani/weatherReactApp.git"
   },
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
@@ -35,9 +35,9 @@
     "redux-promise": "^0.6.0"
   },
   "bugs": {
-    "url": "https://github.com/ManojDaswani/ReduxMyStarter1/issues"
+    "url": "https://github.com/ManojDaswani/weatherReactApp/issues"
   },
-  "homepage": "https://github.com/ManojDaswani/ReduxMyStarter1#readme",
+  "homepage": "https://github.com/ManojDaswani/weatherReactApp#readme",
   "directories": {
     "test": "test"
   }
